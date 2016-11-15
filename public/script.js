@@ -12,8 +12,8 @@
     el: '#app',
     data: {
       customer: {
-        email: 'james@lees.io',
-        name: 'james'
+        email: 'foo@bar.io',
+        name: 'foo bar'
       },
       payment: {
         details: {
